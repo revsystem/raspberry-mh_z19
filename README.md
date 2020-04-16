@@ -4,7 +4,7 @@ For more information,please visit https://qiita.com/revsystem/items/76ab1e21d386
 
 ## Raspberry Pi and mh_z19 connection diagram
 
-![Raspberry Pi](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/61809/ba0fec0d-7cd1-d052-4d8d-0ea5739da647.png)
+![Raspberry Pi](./images/raspberrypi-mh_z19.png "raspberrypi-mh_z19.png")
 
 ## Raspberry Pi config
 
